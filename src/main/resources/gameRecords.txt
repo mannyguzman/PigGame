@@ -1,0 +1,142 @@
+Player 1,19/04/24 01:31,0,Not Finished
+Player 2,19/04/24 01:31,0,Win
+Player 1,19/04/24 01:34,0,Win
+Player 2,19/04/24 01:34,0,Not Finished
+Player 1,19/04/24 05:38,0,Not Finished
+Player 2,19/04/24 05:38,0,Win
+Player 1,19/04/24 05:38,0,Not Finished
+Player 2,19/04/24 05:38,0,Win
+Player 1,23/04/24 10:27,0,Not Finished
+Player 2,23/04/24 10:27,0,Not Finished
+James,23/04/24 10:27,6,Not Finished
+Irene,23/04/24 10:27,0,Not Finished
+Player 1,23/04/24 10:27,6,Not Finished
+Player 2,23/04/24 10:27,0,Not Finished
+SuperDuper,23/04/24 10:27,4,Not Finished
+Player 2,23/04/24 10:27,0,Not Finished
+Player 1,23/04/24 10:27,0,Not Finished
+Player 2,23/04/24 10:27,0,Not Finished
+Player 1,23/04/24 10:29,0,Not Finished
+Sammy,23/04/24 10:29,0,Not Finished
+Player 1,23/04/24 10:42,0,Not Finished
+Player 2,23/04/24 10:42,0,Not Finished
+Player 1,24/04/24 05:49,0,Not Finished
+Player 2,24/04/24 05:49,0,Not Finished
+Player 1,24/04/24 05:50,0,Not Finished
+Player 2,24/04/24 05:50,0,Not Finished
+Player 1,24/04/24 05:52,0,Not Finished
+Player 2,24/04/24 05:52,0,Not Finished
+Player 1,24/04/24 05:53,0,Not Finished
+Player 2,24/04/24 05:53,0,Not Finished
+Player 1,24/04/24 06:03,0,Not Finished
+Player 2,24/04/24 06:03,0,Not Finished
+Player 1,24/04/24 06:03,2,Not Finished
+Player 2,24/04/24 06:03,0,Not Finished
+Player 1,24/04/24 06:03,0,Not Finished
+Player 2,24/04/24 06:03,0,Not Finished
+Player 1,24/04/24 06:04,0,Not Finished
+Player 2,24/04/24 06:04,0,Not Finished
+Player 1,24/04/24 06:05,0,Not Finished
+Player 2,24/04/24 06:05,0,Not Finished
+Player 1,24/04/24 06:07,0,Not Finished
+Player 2,24/04/24 06:07,0,Not Finished
+Player 1,24/04/24 06:07,3,Not Finished
+Player 2,24/04/24 06:07,0,Not Finished
+Player 1,24/04/24 06:08,0,Not Finished
+Player 2,24/04/24 06:08,0,Not Finished
+Player 1,24/04/24 06:08,4,Not Finished
+Player 2,24/04/24 06:08,0,Not Finished
+Player 1,24/04/24 06:11,0,Not Finished
+Player 2,24/04/24 06:11,0,Not Finished
+Player 1,24/04/24 06:12,0,Not Finished
+Player 2,24/04/24 06:12,0,Not Finished
+Player 1,24/04/24 06:12,0,Not Finished
+Player 2,24/04/24 06:12,0,Not Finished
+Player 1,24/04/24 06:12,5,Not Finished
+Player 2,24/04/24 06:12,0,Not Finished
+Player 1,24/04/24 06:13,0,Not Finished
+Player 2,24/04/24 06:13,0,Not Finished
+Player 1,24/04/24 06:13,4,Not Finished
+Player 2,24/04/24 06:13,0,Not Finished
+Player 1,24/04/24 06:15,0,Not Finished
+Player 2,24/04/24 06:15,0,Not Finished
+Player 1,24/04/24 06:15,3,Not Finished
+Player 2,24/04/24 06:15,0,Not Finished
+Player 1,24/04/24 06:17,0,Not Finished
+Player 2,24/04/24 06:17,0,Not Finished
+Player 1,24/04/24 06:17,0,Not Finished
+Player 2,24/04/24 06:17,0,Not Finished
+Player 1,24/04/24 06:17,5,Not Finished
+Player 2,24/04/24 06:17,0,Not Finished
+Player 1,24/04/24 06:17,5,Not Finished
+Player 2,24/04/24 06:17,0,Not Finished
+Player 1,24/04/24 06:17,0,Not Finished
+Player 2,24/04/24 06:17,0,Not Finished
+Player 1,24/04/24 06:18,6,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,0,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,6,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,2,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,6,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,4,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,6,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,0,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,0,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,0,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:18,0,Not Finished
+Player 2,24/04/24 06:18,0,Not Finished
+Player 1,24/04/24 06:19,4,Not Finished
+Player 2,24/04/24 06:19,0,Not Finished
+Player 1,24/04/24 06:19,0,Not Finished
+Player 2,24/04/24 06:19,0,Not Finished
+Player 1,24/04/24 06:19,0,Not Finished
+Player 2,24/04/24 06:19,0,Not Finished
+Player 1,24/04/24 06:19,0,Not Finished
+Player 2,24/04/24 06:19,0,Not Finished
+Player 1,24/04/24 06:19,5,Not Finished
+Player 2,24/04/24 06:19,0,Not Finished
+Pedro,25/04/24 11:40,85,Lose
+Tammy,25/04/24 11:40,102,Win
+Tammy,25/04/24 11:47,100,Win
+Kiki,25/04/24 11:47,69,Lose
+Sebastian McCargar,25/04/24 11:54,77,Lose
+Alejandro Manuel,25/04/24 11:54,100,Win
+Sebastian McCargar,25/04/24 11:56,103,Win
+Alejandro Manuel,25/04/24 11:56,94,Lose
+Player 1,25/04/24 03:54,0,Not Finished
+Player 2,25/04/24 03:54,0,Not Finished
+Player 1,26/04/24 08:21,28,Lose
+Player 2,26/04/24 08:21,59,Win
+Player 1,26/04/24 08:53,50,Win
+Player 2,26/04/24 08:53,35,Lose
+Penelope,26/04/24 09:00,40,Lose
+Andy,26/04/24 09:00,50,Win
+Kiki,26/04/24 09:07,53,Win
+Alex,26/04/24 09:07,45,Lose
+Kiki,26/04/24 09:08,54,Win
+Alex,26/04/24 09:08,41,Lose
+Sarah,26/04/24 09:35,50,Win
+James,26/04/24 09:35,44,Lose
+James,26/04/24 09:49,51,Win
+Kiki,26/04/24 09:49,25,Lose
+James,26/04/24 09:51,51,Win
+Kiki,26/04/24 09:51,42,Lose
+James,26/04/24 09:54,51,Win
+Kiki,26/04/24 09:54,41,Lose
+Kiki,26/04/24 09:57,28,Lose
+James,26/04/24 09:57,50,Win
+Irene,26/04/24 10:01,53,Win
+Erin,26/04/24 10:01,28,Lose
+Zoe,26/04/24 10:21,53,Win
+Jimmy,26/04/24 10:21,47,Lose
+Jimmy,26/04/24 10:35,21,Lose
+Kiki,26/04/24 10:35,51,Win
